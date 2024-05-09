@@ -1,7 +1,7 @@
 public class principal {
     public static void main(String[] args) {
 
-        String nombre = "Fran Garcia Vega";
+        String nombre = "Francisco Jose Garcia Vega";
         System.out.println("El creador de esta tarea es: " + nombre);
 
     }
